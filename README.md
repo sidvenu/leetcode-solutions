@@ -17,3 +17,9 @@ Solutions to LeetCode problems from https://leetcode.com/problemset/all
 | [#1347](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) | :heavy_check_mark: | 62.34% | 100.00% | 2020-04-22 |
 | [#1305](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | :heavy_check_mark: | 50.29% | 100.00% | 2020-04-22 |
 | [#1079](https://leetcode.com/problems/letter-tile-possibilities/) | :heavy_check_mark: | 100.00% | 100.00% | 2020-04-22 |
+
+## Contribution
+
+Do you want tosubmit a better/alternate/new solution to any problem from LeetCode?
+
+Follow the [template](solutions/_template.cpp) (replacing the content in {}) and submit a [pull request](https://github.com/sidvenu/leetcode-solutions/pulls). File name: *problem_number.your_github_username.cpp*.
