@@ -13,3 +13,7 @@ Solutions to LeetCode problems from https://leetcode.com/problemset/all
 | [#1370](https://leetcode.com/problems/increasing-decreasing-string/) | :heavy_check_mark: | 2020-04-21 |
 | [#1374](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/) | :heavy_check_mark: | 2020-04-21 |
 | [#1402](https://leetcode.com/problems/reducing-dishes/) | :heavy_check_mark: | 2020-04-21 |
+| [#832](https://leetcode.com/problems/flipping-an-image/) | :heavy_check_mark: | 2020-04-22 |
+| [#1347](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) | :heavy_check_mark: | 2020-04-22 |
+| [#1305](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | :heavy_check_mark: | 2020-04-22 |
+| [#1079](https://leetcode.com/problems/letter-tile-possibilities/) | :heavy_check_mark: | 2020-04-22 |
