@@ -2,6 +2,9 @@
 1351. Count Negative Numbers in a Sorted Matrix
 https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
 
+Runtime: 16 ms, faster than 91.47% of C++ online submissions
+Memory Usage: 8 MB, less than 100.00% of C++ online submissions
+
 Code written by Siddharth Venu - https://github.com/sidvenu
 Licensed under The Unlicense
 */

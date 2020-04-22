@@ -2,6 +2,9 @@
 1008. Construct Binary Search Tree from Preorder Traversal
 https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/
 
+Runtime: 8 ms, faster than 40.33% of C++ online submissions
+Memory Usage: 11.6 MB, less than 28.57% of C++ online submissions
+
 Code written by Siddharth Venu - https://github.com/sidvenu
 Licensed under The Unlicense
 */

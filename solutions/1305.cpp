@@ -2,6 +2,9 @@
 1305. All Elements in Two Binary Search Trees
 https://leetcode.com/problems/all-elements-in-two-binary-search-trees/
 
+Runtime: 292 ms, faster than 50.29% of C++ online submissions
+Memory Usage: 53.7 MB, less than 100.00% of C++ online submissions
+
 Code written by Siddharth Venu - https://github.com/sidvenu
 Licensed under The Unlicense
 */

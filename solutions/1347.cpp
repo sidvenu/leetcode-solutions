@@ -2,6 +2,9 @@
 1347. Minimum Number of Steps to Make Two Strings Anagram
 https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/
 
+Runtime: 92 ms, faster than 62.34% of C++ online submissions
+Memory Usage: 16.7 MB, less than 100.00% of C++ online submissions
+
 Code written by Siddharth Venu - https://github.com/sidvenu
 Licensed under The Unlicense
 */

@@ -2,6 +2,9 @@
 1079. Letter Tile Possibilities
 https://leetcode.com/problems/letter-tile-possibilities/
 
+Runtime: 0 ms, faster than 100.00% of C++ online submissions
+Memory Usage: 6 MB, less than 100.00% of C++ online submissions
+
 Code written by Siddharth Venu - https://github.com/sidvenu
 Licensed under The Unlicense
 */

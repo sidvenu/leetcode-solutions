@@ -2,6 +2,9 @@
 1309. Decrypt String from Alphabet to Integer Mapping
 https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/
 
+Runtime: 0 ms, faster than 100.00% of C++ online submissions
+Memory Usage: 6.3 MB, less than 100.00% of C++ online submissions
+
 Code written by Siddharth Venu - https://github.com/sidvenu
 Licensed under The Unlicense
 */

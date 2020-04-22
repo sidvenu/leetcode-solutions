@@ -2,6 +2,9 @@
 1402. Reducing Dishes
 https://leetcode.com/problems/reducing-dishes/
 
+Runtime: 4 ms, faster than 92.77% of C++ online submissions
+Memory Usage: 6.5 MB, less than 100.00% of C++ online submissions
+
 Code written by Siddharth Venu - https://github.com/sidvenu
 Licensed under The Unlicense
 */

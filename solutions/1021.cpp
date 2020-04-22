@@ -2,6 +2,9 @@
 1021. Remove Outermost Parentheses
 https://leetcode.com/problems/remove-outermost-parentheses/
 
+Runtime: 4 ms, faster than 90.01% of C++ online submissions
+Memory Usage: 6.8 MB, less than 100.00% of C++ online submissions
+
 Code written by Siddharth Venu - https://github.com/sidvenu
 Licensed under The Unlicense
 */

@@ -2,6 +2,9 @@
 832. Flipping an Image
 https://leetcode.com/problems/flipping-an-image/
 
+Runtime: 8 ms, faster than 98.28% of C++ online submissions
+Memory Usage: 7.2 MB, less than 100.00% of C++ online submissions
+
 Code written by Siddharth Venu - https://github.com/sidvenu
 Licensed under The Unlicense
 */
