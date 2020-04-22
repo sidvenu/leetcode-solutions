@@ -21,6 +21,7 @@ Solutions to LeetCode problems from https://leetcode.com/problemset/all
 | [#763](https://leetcode.com/problems/balance-a-binary-search-tree/).1 | :heavy_check_mark: | 5.77% | 6.45% | 2020-04-22 |
 | [#763](https://leetcode.com/problems/balance-a-binary-search-tree/).2 | :heavy_check_mark: | 93.38% | 100.00% | 2020-04-22 |
 | [#905](https://leetcode.com/problems/sort-array-by-parity/) | :heavy_check_mark: | 95.15% | 100.00% | 2020-04-22 |
+| [#950](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | :heavy_check_mark: | 98.44% | 100.00% | 2020-04-23 |
 
 ## Contributions
 
