@@ -32,6 +32,7 @@ Solutions to LeetCode problems from https://leetcode.com/problemset/all
 | [#890](https://leetcode.com/problems/find-and-replace-pattern/) | :heavy_check_mark: | 86.48% | 100.00% | 2020-04-29 |
 | [#1381](https://leetcode.com/problems/design-a-stack-with-increment-operation/) | :heavy_check_mark: | 17.31% | 100.00% | 2020-04-29 |
 | [#1325](https://leetcode.com/problems/delete-leaves-with-a-given-value/) | :heavy_check_mark: | 96.58% | 100.00% | 2020-04-29 |
+| [#980](https://leetcode.com/problems/unique-paths-iii/) | :heavy_check_mark: | 20.60% | 100.00% | 2020-04-30 |
 
 ## Contributions
 
