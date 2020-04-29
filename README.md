@@ -28,6 +28,7 @@ Solutions to LeetCode problems from https://leetcode.com/problemset/all
 | [#617](https://leetcode.com/problems/merge-two-binary-trees/).1 | :heavy_check_mark: | 70.91% | 5.55% | 2020-04-29 |
 | [#617](https://leetcode.com/problems/merge-two-binary-trees/).2 | :heavy_check_mark: | 93.87% | 5.55% | 2020-04-29 |
 | [#617](https://leetcode.com/problems/merge-two-binary-trees/).3 | :heavy_check_mark: | 93.87% | 19.44% | 2020-04-29 |
+| [#1261](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/) | :heavy_check_mark: | 59.59% | 100.00% | 2020-04-29 |
 
 ## Contributions
 
