@@ -30,6 +30,7 @@ Solutions to LeetCode problems from https://leetcode.com/problemset/all
 | [#617](https://leetcode.com/problems/merge-two-binary-trees/).3 | :heavy_check_mark: | 93.87% | 19.44% | 2020-04-29 |
 | [#1261](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/) | :heavy_check_mark: | 59.59% | 100.00% | 2020-04-29 |
 | [#890](https://leetcode.com/problems/find-and-replace-pattern/) | :heavy_check_mark: | 86.48% | 100.00% | 2020-04-29 |
+| [#1381](https://leetcode.com/problems/design-a-stack-with-increment-operation/) | :heavy_check_mark: | 17.31% | 100.00% | 2020-04-29 |
 
 ## Contributions
 
