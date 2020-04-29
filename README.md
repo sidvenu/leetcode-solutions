@@ -24,6 +24,7 @@ Solutions to LeetCode problems from https://leetcode.com/problemset/all
 | [#950](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | :heavy_check_mark: | 98.44% | 100.00% | 2020-04-23 |
 | [#814](https://leetcode.com/problems/binary-tree-pruning/) | :heavy_check_mark: | 63.25% | 100.00% | 2020-04-23 |
 | [#894](https://leetcode.com/problems/all-possible-full-binary-trees/).1 | :heavy_check_mark: | 58.79% | 50.00% | 2020-04-24 |
+| [#961](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | :heavy_check_mark: | 33.09% | 5.00% | 2020-04-29 |
 
 ## Contributions
 
